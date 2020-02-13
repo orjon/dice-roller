@@ -1,4 +1,4 @@
-# Simple Pokemon card game
+# Simple React Dice Rolling thing
 
 Experiments with React
 
